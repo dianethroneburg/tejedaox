@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thuheegaic.capandskull.org/sitemap.xml
